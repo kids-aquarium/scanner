@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EF01C748-649A-0F31-13EA-39C6F535A332}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JLEventManager.cs">
+    <Files>
+      <File FileName="Assets/JLEventTest.cs" Line="36" Column="47" />
+      <File FileName="Assets/JLEventManager.cs" Line="57" Column="49" />
+      <File FileName="Assets/JLScanner.cs" Line="95" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JLEventTest PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
